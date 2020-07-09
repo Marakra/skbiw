@@ -1,1 +1,1 @@
-It's file for rebase file 2
+It's file for rebase file 2 + text
