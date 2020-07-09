@@ -1,0 +1,4 @@
+Changelog file.
+
+[Version 1.0]
+  * Change text in Readme file
